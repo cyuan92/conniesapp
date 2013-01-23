@@ -1,0 +1,12 @@
+body{
+    display: block;
+    align: center;
+}
+
+input{
+    display: block;
+}
+
+textarea{
+    display: block;
+}
